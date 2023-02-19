@@ -1,0 +1,65 @@
+
+
+.nav-link{
+    color: #fff;
+}
+
+.navbar{
+    background: rgb(0, 0, 0);
+  
+}
+
+
+body{
+    background: rgb(255, 255, 255);
+}
+/* .gg img{
+    height: 260px;
+    width: 100%;
+    -o-object-fit: fill;
+       object-fit: fill;
+} */
+
+.imgbox img{
+    height: 260px;
+    width: 100%;
+    -o-object-fit: fill;
+       object-fit: fill;
+}
+.price{
+    color: rgb(255, 183, 0);
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.navbar-brand{
+    font-size: 32px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.icon{
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+.hh{
+    position: relative;
+    display: inline-block;
+
+
+ 
+}
+
+.hh span{
+    position: absolute;
+    top: 55%;
+    right: -63%;
+    height: 1px;
+    width: 150px;
+    background: rgb(59, 51, 51);
+}
+.kk{
+    cursor: pointer;
+}
+

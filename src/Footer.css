@@ -1,0 +1,14 @@
+.footer{
+    background-color: #000;
+}
+
+p{
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.pr{
+    color: blue;
+    letter-spacing: 0.5px;
+    margin-left: 3px;
+}
